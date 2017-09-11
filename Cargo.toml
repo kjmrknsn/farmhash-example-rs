@@ -1,0 +1,7 @@
+[package]
+name = "farmhash-example-rs"
+version = "0.1.0"
+authors = ["Keiji Yoshida <kjmrknsn@gmail.com>"]
+
+[dependencies]
+farmhash = "1.1.5"
